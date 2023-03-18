@@ -14,6 +14,7 @@ The full moon is only visible from sunset to sunrise. Because Earth is spherical
 
 Quran 84:16-18
 
+![image](https://user-images.githubusercontent.com/31664438/226105984-da74c707-2ed8-46fb-9e25-c9560959b245.png)
 
 
 Here the full moon can only be seen from twilight then all night long; but not during the day. Today we know that this is correct because Earth is not flat but spherical. No mistakes in the Quran.
