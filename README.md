@@ -4,3 +4,4 @@ The Quran is the holy book of Islam, considered by Muslims to be the literal wor
 Muslims believe that the Quran is the final and complete revelation of God, superseding all previous revelations including the Torah and the Gospel, and that it is preserved in its original form, without alteration or corruption, by Allah's protection. It is recited in Arabic during prayer, and its teachings are studied and applied in various aspects of life by Muslims around the world.
 
 The Quran was not made by any human being, but rather it is believed to be a divine revelation from Allah to humanity through the Prophet Muhammad. Muslims believe that the Prophet Muhammad was chosen by Allah to receive and transmit the Quran, and that he conveyed it to his companions, who in turn memorized and wrote it down, ensuring its preservation and dissemination to future generations.
+
