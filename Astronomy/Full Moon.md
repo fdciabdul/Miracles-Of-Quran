@@ -1,5 +1,6 @@
 # Full Moon|
 ![https://www.miracles-of-quran.com/assets/images/full-moon.gif](https://www.miracles-of-quran.com/assets/images/full-moon.gif)
+
 A full moon is a phase of the moon that occurs when the moon appears fully illuminated from the perspective of Earth. This happens when the moon is on the opposite side of Earth from the sun, with the Earth positioned directly between the sun and the moon.
 
 During a full moon, the entire face of the moon that is visible from Earth is illuminated by the sun's light, creating a bright and distinct circular shape. The full moon is typically the brightest and most noticeable phase of the moon, and it can often be seen in the sky for several nights in a row.
