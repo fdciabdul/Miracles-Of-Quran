@@ -7,12 +7,13 @@
 > Wikipedia, Axial tilt, 2022
 
 There are some verses in the Quran that mention the concept of axial tilt, which refers to the tilt of the Earth's axis relative to its orbit around the sun. One example is in Surah Al-Anbiya, verse 33, which states:
->وَهُوَ ٱلَّذِي خَلَقَ ٱلَّيۡلَ وَٱلنَّهَارَ وَٱلشَّمۡسَ وَٱلۡقَمَرَۖ كُلّٞ فِي فَلَكٖ يَسۡبَحُونَ
-"And He it is Who created the night and the day, and the sun and the moon. They float, each in an orbit."
+
+![image](https://user-images.githubusercontent.com/31664438/226105099-31f67ccd-e70d-4f9a-be26-7a604c3d63fb.png)
+
 
 This verse implies that the sun and the moon each move in a particular orbit, which is consistent with the concept of axial tilt. Another example is in Surah Ya-Sin, verse 40, which states:
->لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ ۚ وَكُلٌّۭ فِى فَلَكٍۢ يَسْبَحُونَ ٤٠
-"It is not for the sun to overtake the moon, nor doth the night outstrip the day. They float each in an orbit."
+![image](https://user-images.githubusercontent.com/31664438/226105071-2b8f8a0d-dc21-4d01-8a68-68c4483dcb75.png)
+
 
 This verse also implies that the sun and the moon each move in their own orbit, which is consistent with the concept of axial tilt.
 
